@@ -1,3 +1,9 @@
 output/**/*.csv
 output/**/*.json
+!output/*.csv
+!output/final/*.csv
+!output/**/*-1.csv
+!output/**/*-1.json
+!output/**/*_1.csv
+!output/**/*_1.json
 2019-afcai-spring/
